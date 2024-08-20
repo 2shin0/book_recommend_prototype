@@ -16,7 +16,7 @@
 과학.xlsx
 문학.xlsx<br>
 파일별 컬럼 : Category(인문 1, 사회 2, 과학 3, 문학 4), Grade(추천 학년), Writer(작가), Content(줄거리)
-3. pip install -r requirements.txt
-4. streamlit run app.py
+2. pip install -r requirements.txt
+3. streamlit run app.py
 
 감사합니다 🙌
